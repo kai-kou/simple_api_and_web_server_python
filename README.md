@@ -1,0 +1,2 @@
+# simple_api_and_web_server_python
+Pythonの標準ライブラリでAPIサーバとWebサーバを立ち上げる
